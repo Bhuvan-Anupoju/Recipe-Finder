@@ -27,7 +27,7 @@
 - Error Handling – Informs users when no recipes are found or input is invalid.
 
 ## Screenshots of the Website
-- Home Page
+
 ![Home Page Screenshots](https://github.com/user-attachments/assets/8eab27af-164c-4644-8cac-d9f7ad63dda1)
 
 ![Home Page Screenshots](https://github.com/user-attachments/assets/118497df-2c00-40b6-bffc-6c07a8a1ad96)
